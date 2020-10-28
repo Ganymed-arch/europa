@@ -2,6 +2,8 @@
     "name": "ganymede/europa",
     "description": "The first bot to be public from Ganymede",
     "require": {
-        "team-reflex/discord-php": "^5.0"
+        "team-reflex/discord-php": "^5.0",
+      "ext-curl": "*",
+        "ext-dom": "*"
     }
 }
